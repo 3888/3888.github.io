@@ -14,6 +14,15 @@
     "namespace": "android_app",
     "package_name": "com.metaproject.x_bet",
     "sha256_cert_fingerprints":
+    ["89:93:1D:E6:20:2A:90:5A:84:34:73:26:92:BE:A4:6C:C3:24:44:12:6B:3A:FC:36:F1:5A:55:54:03:10:0B:E0"]
+  }
+},
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.architecture.template",
+    "sha256_cert_fingerprints":
     ["C2:C6:9F:54:22:A8:1B:08:A2:66:9B:F1:28:BA:9E:E2:5E:D8:F8:AE:E6:7C:99:4F:6A:54:EE:26:2D:2E:9A:90"]
   }
 } 
