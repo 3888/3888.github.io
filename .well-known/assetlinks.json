@@ -1,25 +1,23 @@
-[
-  {
-  "relation": [
-    "delegate_permission/common.handle_all_urls"
-  ],
-  "target" : { 
-   "namespace": "android_app",
-   "package_name": "com.architecture.template",
-   "sha256_cert_fingerprints": [
-    "C2:C6:9F:54:22:A8:1B:08:A2:66:9B:F1:28:BA:9E:E2:5E:D8:F8:AE:E6:7C:99:4F:6A:54:EE:26:2D:2E:9A:90"
-   ]
-  },
-    {
-  "relation": [
-    "delegate_permission/common.handle_all_urls"
-  ],
-  "target" : { 
-   "namespace": "android_app",
-   "package_name": "com.metaproject.x_bet",
-   "sha256_cert_fingerprints": [
-    "C2:C6:9F:54:22:A8:1B:08:A2:66:9B:F1:28:BA:9E:E2:5E:D8:F8:AE:E6:7C:99:4F:6A:54:EE:26:2D:2E:9A:90"
-   ]
+[  
+ {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.architecture.template",
+            "sha256_cert_fingerprints": [
+                "C2:C6:9F:54:22:A8:1B:08:A2:66:9B:F1:28:BA:9E:E2:5E:D8:F8:AE:E6:7C:99:4F:6A:54:EE:26:2D:2E:9A:90"
+            ]
+        }
+    },
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.metaproject.x_bet",
+    "sha256_cert_fingerprints":
+    ["C2:C6:9F:54:22:A8:1B:08:A2:66:9B:F1:28:BA:9E:E2:5E:D8:F8:AE:E6:7C:99:4F:6A:54:EE:26:2D:2E:9A:90"]
   }
-}  
+} 
 ]
